@@ -23,5 +23,7 @@
 </ul>    
 
 <div align="left">
-    <H3> 3. 진행중 </H3>
+    <H3> 3. Flow Chart </H3>
 </div>
+
+![rentalProgramFlowChart drawio (1)](https://github.com/Stjoo0925/Book_Rental_program/assets/166350549/21a3cd0e-43dc-4472-a046-ec48e39f4ee7)
