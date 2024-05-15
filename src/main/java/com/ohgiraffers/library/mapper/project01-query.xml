@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment/>
+
+    <!-- 도서 대출 메서드 시작 -->
+
+    <entry key="memberNameValid">
+       SELECT
+       memberNum
+       FROM member
+       WHERE memberName = ? ;
+    </entry>
+
+    <entry key="bookNameValid">
+        SELECT
+        bookNum
+        FROM book
+        WHERE bookName = ? ;
+    </entry>
+
+    <entry key="rentallist">
+        UPDATE rentallist
+        SET bookNum = ? ;
+    </entry>
+
+    <!-- 도서 관리 메서드 시작 -->
+
+    <entry key="bookRegistration">
+        INSERT INTO book (bookName) VALUES (?) ;
+    </entry>
+
+    <entry key="bookNameSearch">
+        SELECT
+        bookNum ,
+        bookName ,
+        bookStatus
+        FROM book
+        WHERE bookName = ? ;
+    </entry>
+
+    <entry key="bookModify">
+        UPDATE book
+        SET bookName = ?
+        WHERE bookName = ? ;
+    </entry>
+
+    <entry key="bookDelete">
+        UPDATE book
+        SET bookStatus = 'N'
+        WHERE bookName = ? ;
+    </entry>
+
+    <entry key="registeredBookList">
+        SELECT
+        bookNum ,
+        bookName ,
+        bookStatus
+        FROM book;
+    </entry>
+
+    <!-- 회원 관리 메서드 시작 -->
+
+    <entry key="memberRegistration">
+        INSERT INTO member
+        (memberName)
+        VALUES
+        (?) ;
+    </entry>
+
+    <entry key="memberNameSearch">
+        SELECT
+        memberNum ,
+        memberName ,
+        memberRentalList ,
+        memberStatus
+        FROM member
+        WHERE memberName = ? ;
+    </entry>
+
+    <entry key="memberModify">
+        UPDATE member
+        SET memberName = ?
+        WHERE memberName = ? ;
+    </entry>
+
+    <entry key="memberDelete">
+        UPDATE member
+        SET memberStatus = 'N'
+        WHERE memberName = ? ;
+    </entry>
+
+    <entry key="registeredMemberList">
+        SELECT
+        memberNum ,
+        memberName ,
+        memberRentalList ,
+        memberStatus
+        FROM member;
+    </entry>
+
+    <!-- 도서 반납 메서드 시작 -->
+</properties>
