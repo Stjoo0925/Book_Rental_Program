@@ -23,5 +23,5 @@
 </ul>    
 
 <div align="left">
-    <H3> 3. Flow Chart </H3>
+    <H3> 3. 진행중 </H3>
 </div>
