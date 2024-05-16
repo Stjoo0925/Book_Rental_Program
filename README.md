@@ -21,13 +21,21 @@
 <table style="border-collapse: collapse; border: 1px solid #aaa;">
   <thead>
     <tr>
-      <th rowspan="2" style="border: 1px solid #aaa; padding: 10px; background-color: #f38630; color: #fff; text-align: center;">기술</th>
-      <th style="border: 1px solid #aaa; padding: 10px; background-color: #f38630; color: #fff; text-align: center;">JAVA</th>
-      <th style="border: 1px solid #aaa; padding: 10px; background-color: #f38630; color: #fff; text-align: center;">MYSQL</th>
+      <th rowspan="2" style="border: 1px solid #aaa; padding: 10px; background-color: #f38630; color: #fff; text-align: center; vertical-align: middle;">기술</th>
+      <th style="border: 1px solid #aaa; padding: 10px; background-color: #f38630; color: #fff; text-align: center; vertical-align: middle;">JAVA</th>
+      <th style="border: 1px solid #aaa; padding: 10px; background-color: #f38630; color: #fff; text-align: center; vertical-align: middle;">MYSQL</th>
     </tr>
     <tr>
-      <td style="border: 1px solid #aaa; padding: 10px; text-align: center;"><a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px"></a></td>
-      <td style="border: 1px solid #aaa; padding: 10px; text-align: center;"><a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="30px"></a></td>
+      <td style="border: 1px solid #aaa; padding: 10px; text-align: center; vertical-align: middle;">
+        <a href="https://www.java.com/" title="Java">
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px">
+        </a>
+      </td>
+      <td style="border: 1px solid #aaa; padding: 10px; text-align: center; vertical-align: middle;">
+        <a href="https://dev.mysql.com/" title="MySQL">
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="30px">
+        </a>
+      </td>
     </tr>
   </thead>
 </table>
