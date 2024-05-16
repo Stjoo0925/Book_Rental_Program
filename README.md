@@ -1,5 +1,5 @@
 <div align="center">
-    <H1> 도서대여프로그램 </H1>
+    <H1> 도 서 대 여 프 로 그 램 </H1>
 </div>
 
 <div align="left">
@@ -18,27 +18,10 @@
     <H3> 2. 사용기술 </H3>
 </div>
 
-<table style="border-collapse: collapse; border: 1px solid #aaa;">
-  <thead>
-    <tr>
-      <th rowspan="2" style="border: 1px solid #aaa; padding: 10px; background-color: #f38630; color: #fff; text-align: center; vertical-align: middle;">기술</th>
-      <th style="border: 1px solid #aaa; padding: 10px; background-color: #f38630; color: #fff; text-align: center; vertical-align: middle;">JAVA</th>
-      <th style="border: 1px solid #aaa; padding: 10px; background-color: #f38630; color: #fff; text-align: center; vertical-align: middle;">MYSQL</th>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #aaa; padding: 10px; text-align: center; vertical-align: middle;">
-        <a href="https://www.java.com/" title="Java">
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px">
-        </a>
-      </td>
-      <td style="border: 1px solid #aaa; padding: 10px; text-align: center; vertical-align: middle;">
-        <a href="https://dev.mysql.com/" title="MySQL">
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="30px">
-        </a>
-      </td>
-    </tr>
-  </thead>
-</table>
+<ul>
+    <li><a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30" height="30"></a><sub>JAVA</sub></li></br>
+    <li><a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="30px"></a><sub>MYSQL</sub></li>
+</ul>
 
 <br><br>
 
