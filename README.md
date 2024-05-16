@@ -10,6 +10,7 @@
   <p>
     이 프로그램을 작성하게된 계기는 개발을 배우는 국비교육에서 프로젝트로서 작성하게 되었습니다. </br>
     팀프로젝트를 하면서 미흡한 부분이나 더 향상시킬부분을 보완해서 작성해 보고자 프로젝트를 개시하였습니다.
+    프로젝트 개발 기간 : 
   </p>
 </div>
 <br><br>
@@ -26,7 +27,13 @@
 <br><br>
 
 <div align="left">
-    <H3> 3. Flow Chart </H3>
+    <H3> 3. E.R.D </H3>
+</div>
+
+<br><br>
+
+<div align="left">
+    <H3> 4. Flow Chart </H3>
 </div>
 
 ![rentalProgramFlowChart drawio (1) drawio](https://github.com/Stjoo0925/Book_Rental_program/assets/166350549/06476ab4-d6d2-4462-b011-853cbef16a45)
@@ -34,7 +41,7 @@
 <br><br>
 
 <div align="left">
-    <H3> 4. 상세설명 </H3>
+    <H3> 5. 상세설명 </H3>
 </div>
 
 <div>
@@ -47,3 +54,14 @@
 </div>
 <br><br>
 
+<div align="left">
+    <H3> 6. 진행상황 </H3>
+</div>
+
+<div>
+    <p>
+        <ul>
+            <li> 24.05.16 : README 정리완료</li>
+        </ul>
+    </p>
+</div>
