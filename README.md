@@ -29,7 +29,7 @@
 <div align="left">
     <H3> 3. 객체-관계 모델 - ERD </H3>
 </div>
-
+    ![image](https://github.com/Stjoo0925/library_management_program/assets/166350549/d9f8eead-ffc6-43ec-9f9a-35c49f5eaac6)
 <br><br>
 
 <div align="left">
